@@ -23,7 +23,7 @@ margin:0;
 /* transparentlinear-gradient(#0000005c, #51555d82) color */
 
 .container {
-   background: url(/imgs/ihpone13.jpg);
+   background: url(imgs/ihpone13.jpg);
     background-attachment: fixed;
     background-position: center center;
     background-size: cover;
@@ -217,7 +217,7 @@ section.camera {
     transition: 900ms ease-in;
     opacity: 0;
     width: 100%;
-    background:url(/imgs/img-box.jpg);
+    background:url(imgs/img-box.jpg);
     height: 100%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -240,7 +240,7 @@ section.camera {
 
 
     section.aios {
-        background: url(/imgs/a15.png);
+        background: url(imgs/a15.png);
         display: grid;
        grid-template-columns: 1fr  1fr;
        justify-content: center;
@@ -324,7 +324,7 @@ section.camera {
     }
     
     .shipcenter {
-        background: url(/imgs/ship.jpg) center;
+        background: url(imgs/ship.jpg) center;
 
 
         background-repeat: no-repeat;
@@ -377,7 +377,7 @@ section.camera {
 
 
     section.gameios {
-        background: url(/imgs/game1.png) #fafafa;
+        background: url(imgs/game1.png) #fafafa;
        
         display: grid;
     grid-template-columns: 1fr 1fr 1fr ;
@@ -723,7 +723,7 @@ section.camera {
        #scrolltotop {
           width: 70px;
           height: 70px;
-          background: url(/imgs/scrolltotop.png);
+          background: url(imgs/scrolltotop.png);
           background-size: cover;
           position: fixed;
           bottom: 0;
@@ -789,7 +789,7 @@ z-index: 999999;
 @media screen and (max-width: 1680px) {
 
     section.gameios {
-        background: url(/imgs/game1.png) #fafafa;
+        background: url(imgs/game1.png) #fafafa;
         display: grid;
         grid-template-columns: 1fr 1fr 1fr;
         height: 120vh;
@@ -807,7 +807,7 @@ z-index: 999999;
 
     section.aios {
         
-        background: url(/imgs/a15.png);
+        background: url(imgs/a15.png);
     }
 
  
@@ -852,7 +852,7 @@ z-index: 999999;
             }
 
             section.gameios {
-                background: url(/imgs/game1.png) center / cover no-repeat rgb(250, 250, 250);
+                background: url(imgs/game1.png) center / cover no-repeat rgb(250, 250, 250);
                 display: grid;
                 grid-template-columns: 1fr 1fr 1fr;
                 height: 120vh;
@@ -944,7 +944,7 @@ z-index: 999999;
             }
 
             section.gameios {
-                background: url(/imgs/game1.png) center / cover no-repeat rgb(250, 250, 250);
+                background: url(imgs/game1.png) center / cover no-repeat rgb(250, 250, 250);
                 display: grid;
                 grid-template-columns: 1fr 1fr 1fr;
                 height: 120vh;
