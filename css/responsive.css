@@ -1433,9 +1433,12 @@ cursor: pointer;
 
             }
 
-            section.ios {
-
-                height: 100%;}
+          section.ios {
+    margin-top: -175px;
+    height: 899px;
+    position: relative;
+    z-index: 99999;
+}
 
                 .center img {
                     margin-top: 5px;
