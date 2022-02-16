@@ -1253,12 +1253,12 @@ cursor: pointer;
 
 @media screen and (max-width: 480px) {
 
-  .container {
-        clip-path: polygon(0 0%, 100% 0, 100% 100%, 0% 100%);
-        height: 100vh;
-        background-size: 100% 100% !important;
-    }
-
+.container {
+    clip-path: polygon(0 0%, 100% 0, 100% 100%, 0% 100%);
+    height: 100vh;
+    background-size: 235% 100% !IMPORTANT;
+    background-position-x: 529px;
+}
         
 
     .navbar {
