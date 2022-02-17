@@ -1273,7 +1273,7 @@ cursor: pointer;
    
  .headgame {
 
-    font-size: 20px;}  
+    font-size: 20px!important;}  
    
  section.gameios {
     background-position-y: 32px;
