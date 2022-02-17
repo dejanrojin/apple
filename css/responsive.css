@@ -1253,6 +1253,11 @@ cursor: pointer;
 
 @media screen and (max-width: 480px) {
 
+   
+  .shipcenter {
+    display: none;
+} 
+   
 section.shipios {
 
    grid-template-columns: 1.3fr;}   
