@@ -1840,7 +1840,7 @@ cursor: pointer;
 
                 footer.footersocial ul {
                     padding: 10px 0 10px 100px;
-                    margin-left: -158px;
+                      margin-left: -87px;
                 }
 
 
@@ -1874,6 +1874,12 @@ cursor: pointer;
 
 
 @media screen and (max-width: 375px) {
+   
+   
+     footer.footersocial ul {
+                    padding: 10px 0 10px 100px;
+                      margin-left: -87px;
+                }
    
    footer.footersocial {
   
