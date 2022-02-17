@@ -1521,6 +1521,17 @@ cursor: pointer;
 
    .container {
       background: #000;}
+   
+   
+  .container::before {
+    content: "Introducing iPhone 13";
+    position: absolute;
+    color: #fff;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-size: 20px;
+} 
 
 }
 
@@ -1535,6 +1546,17 @@ cursor: pointer;
 
 .container {
    background: #000;}
+   
+   
+  .container::before {
+    content: "Introducing iPhone 13";
+    position: absolute;
+    color: #fff;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-size: 20px;
+} 
    
    
 }
