@@ -1568,8 +1568,12 @@ cursor: pointer;
 
 
 
-
-
+@media screen and (max-width: 667px)
+footer.footersocial ul {
+    padding: 10px 0 10px 100px;
+    margin-left: 53px;
+}
+}
 
 
 @media screen and (max-width: 480px) {
