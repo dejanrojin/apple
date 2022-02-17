@@ -1534,6 +1534,14 @@ cursor: pointer;
     font-size: 20px;
 } 
 
+  .acenter {
+    margin-top: -300px;
+    margin-left: 80px;
+    background-repeat: no-repeat;
+    text-align: center;
+    width: 200px;
+} 
+   
 }
 
 
@@ -1562,6 +1570,13 @@ cursor: pointer;
     font-family: sans-serif;
     font-size: 20px;
 } 
-   
+ 
+  .acenter {
+    margin-top: -300px;
+    margin-left: 80px;
+    background-repeat: no-repeat;
+    text-align: center;
+    width: 200px;
+} 
    
 }
