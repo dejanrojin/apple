@@ -816,7 +816,10 @@ z-index: 999999;
 
 @media screen and (max-width: 1366px) {
 
-
+footer.footersocial ul {
+    padding: 10px 0 10px 100px;
+    margin-left: 399px;
+}
     .navbar.fixed {
       
         clip-path: polygon(0% 0%, 100% 0%, 100% 18%, 50% 100%, 0px 18%);
