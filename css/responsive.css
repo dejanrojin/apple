@@ -1431,10 +1431,11 @@ cursor: pointer;
             font-family: sans-serif;
             margin-top: 70px;
         }
-
-        .content {
-         
-            margin-top: -100px;}
+.content {
+    margin-top: -129px;
+    margin-left: 145px;
+    height: 500px;
+}
 
         .content h1 {
            font-size: 20px;
