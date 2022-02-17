@@ -1411,6 +1411,7 @@ cursor: pointer;
         }
 
         .shipleft p {
+           width: 400px;
             margin: 32px;
             margin-top: -51px;
             font-size: 12px;
