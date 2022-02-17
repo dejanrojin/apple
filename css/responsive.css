@@ -1560,6 +1560,10 @@ cursor: pointer;
     width: 200px;
 } 
    
+    footer.footersocial {
+  
+      grid-template-columns: 1fr;}
+   
 }
 
 
@@ -1570,7 +1574,9 @@ cursor: pointer;
 
 @media screen and (max-width: 480px) {
 
-   
+    footer.footersocial {
+  
+      grid-template-columns: 1fr;}
    
    
  .left {
@@ -1868,6 +1874,11 @@ cursor: pointer;
 
 
 @media screen and (max-width: 375px) {
+   
+   footer.footersocial {
+  
+      grid-template-columns: 1fr;}
+   
    
   .shipleft p {
      width: 300px;} 
