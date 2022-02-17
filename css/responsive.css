@@ -1254,6 +1254,18 @@ cursor: pointer;
 @media screen and (max-width: 480px) {
 
    
+   
+ .headgame {
+
+    font-size: 23px;}  
+   
+ section.gameios {
+    background-position-y: 197px;
+    background-position-x: -78px;
+   background-size: 140%; 
+    
+}  
+   
   .shipcenter {
     display: none;
 } 
