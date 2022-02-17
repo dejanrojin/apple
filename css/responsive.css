@@ -1028,6 +1028,10 @@ z-index: 999999;
                     ul.uli li a {
                         font-size: 9px;
                     }
+   
+   footer.footersocial {
+  
+      grid-template-columns: 1fr;}
 }
 
 
