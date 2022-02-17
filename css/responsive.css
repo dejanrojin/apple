@@ -1476,19 +1476,17 @@ cursor: pointer;
     margin: 5px 0px 11px 109px;
 }
    
-  .center img {
-    margin-top: -34px;
-    margin-left: 10px;
-} 
+
+   
+ .center img {
+    margin-top: -60px;
+    margin-left: -41px;
+    height: 428px;
+    width: 400px;
+}  
 
 
-
-                .center img {
-                    margin-top: 5px;
-                    margin-left: -41px;
-                    height: 500px;
-                    width: 400px;
-                }
+     
                 form.formapple {
                     margin-left: 62px;
                 }
