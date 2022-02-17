@@ -1522,3 +1522,15 @@ cursor: pointer;
    
 
 }
+
+
+
+
+
+@media screen and (max-width: 375px) {
+
+.left {
+   margin-top: -678px;}
+}
+
+}
