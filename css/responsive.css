@@ -1253,7 +1253,11 @@ cursor: pointer;
 
 @media screen and (max-width: 480px) {
 
-   
+   .contactright {
+      margin-top: -463px;}
+  
+  section.contactios {
+     grid-template-columns: 1fr;} 
    
  .headgame {
 
@@ -1507,8 +1511,10 @@ cursor: pointer;
 
                 footer.footersocial ul {
                     padding: 10px 0 10px 100px;
-                    margin-left: -103px;
+                    margin-left: -158px;
                 }
 
+
+   
 
 }
