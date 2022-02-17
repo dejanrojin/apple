@@ -1723,6 +1723,7 @@ cursor: pointer;
         }
 
         .shipleft p {
+           width:300px;
             margin: 32px;
             margin-top: -51px;
             font-size: 12px;
@@ -1867,6 +1868,9 @@ cursor: pointer;
 
 
 @media screen and (max-width: 375px) {
+   
+  .shipleft p {
+     width: 300px;} 
    
    
    .content {
