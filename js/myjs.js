@@ -81,12 +81,4 @@ burger.addEventListener("click",function(){
 
 
 
-$(document).ready(function(){
 
-
-$(window).load(function() {
-   $('.preloader').fadeOut(1300);
-});
-
-
-});
