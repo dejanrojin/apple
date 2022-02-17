@@ -1247,7 +1247,306 @@ cursor: pointer;
                 }
 
 }
+ 
+
+
+
+@media screen and (max-width: 740px) {
+
    
+   
+   
+ .left {
+    margin-top: -541px;} 
+   
+   
+   
+   .contactright {
+      display: none;}
+  
+  section.contactios {
+     grid-template-columns: 1fr;} 
+   
+ .headgame {
+
+    font-size: 20px;}  
+   
+ section.gameios {
+    background-position-y: 197px;
+    background-position-x: -74px;
+   background-size: 140%; 
+    
+}  
+   
+  .shipcenter {
+    display: none;
+} 
+   
+section.shipios {
+
+   grid-template-columns: 1.3fr;}   
+   
+   
+  .img-box {
+     display: none;} 
+   
+.container {
+    clip-path: polygon(0 0%, 100% 0, 100% 100%, 0% 100%);
+   height: 117vh!important;
+    background-size: 235% 100% !IMPORTANT;
+    background-position-x: 529px;
+}
+        
+
+    .navbar {
+        opacity: 0;
+        background: rgb(246, 247, 241);
+        height: 100%!important;
+        clip-path: polygon(0 1%, 100% 0, 100% 100%, 0% 100%);
+  width:0%;
+    }
+    .openheader {
+        opacity: 1;
+        width: 100%;
+    } 
+
+   .navbar.fixed {
+        background: rgb(246, 247, 241);
+        height: 100%!important;
+        clip-path: polygon(0 0%, 100% 0, 100% 100%, 0% 100%);
+  
+    }
+
+    .navbar.fixeddown {
+        background: rgb(246, 247, 241);
+        height: 100%!important;
+        clip-path: polygon(0 0%, 100% 0, 100% 100%, 0% 100%);
+  
+    }
+
+    nav.navbar ul {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    ul.uli li a {
+color:#000;
+
+    }
+
+
+    ul.uli li {
+        margin: 5px;
+    }
+
+    .logo {
+        display: block;
+        position: absolute;
+        top: 0;}
+
+
+        .burgermenu {
+            opacity: 1;
+            right: 10px;
+            background: #0000;
+            width: 30px;
+            height: 30px;
+            z-index: 9999999999;
+            position: fixed;
+            display: -webkit-box;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-box-orient: vertical;
+            -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+            flex-direction: column;
+            top: 4px;
+
+        }
+        .burgermenu:hover{
+cursor: pointer;
+
+        }
+
+        .burger1 {
+            background: #d4c7be;
+            height: 4px;
+            width: 30px;
+        }
+
+        .burger2 {
+            background: #d4c7be;
+            height: 4px;
+            width: 30px;
+        
+        }
+        
+        .burger3 {
+            background: #d4c7be;
+            height: 4px;
+            width: 30px;
+        }
+        .burgermenu div {
+            margin: 3px;
+        }
+
+    
+        .acenter h1 {
+            font-size: 15px;
+        }     
+     
+        section.aios {
+            background-size: cover!important;
+            background-position-x: -150px;
+        } 
+
+        .shiptext {
+            margin: 57px;
+        }
+
+        .shipleft p {
+            margin: 32px;
+            margin-top: -51px;
+            font-size: 12px;
+        }
+
+        h2.shoot {
+            font-size: 34px;
+        }
+        button.allprogres {
+            margin: -33px 35px;
+            padding: 10px;
+            width: 122px;
+        }
+
+        .headgame {
+            color: rgb(0, 0, 0);
+            font-size: 29px;
+            font-family: sans-serif;
+            margin-top: 70px;
+        }
+
+        .content {
+         
+            margin-top: -100px;}
+
+        .content h1 {
+           font-size: 20px;
+    
+        }
+        .content p {
+       font-size: 12px;
+        }
+        .acenter p {
+            font-size: 12px;
+        }
+        p.pargame {
+            font-size: 12px;
+        }
+
+        .left p {
+            font-size: 12px;
+            margin: 10px;
+        }
+
+        i.fas.fa-sd-card {
+            font-size: 21px;}    
+            i.fas.fa-memory{
+
+                font-size: 21px;    
+            }
+    i.fas.fa-battery-three-quarters{
+        font-size: 21px; 
+
+            }
+            i.fas.fa-mobile-alt{
+
+                font-size: 21px;  
+            }
+
+            i.fab.fa-apple{
+                font-size: 21px;  
+
+            }
+
+          section.ios {
+    margin-top: -175px;
+    height: 899px;
+    position: relative;
+    z-index: 99999;
+    grid-template-columns: 1fr;
+    
+             
+}
+   
+   .left p {
+    margin: 5px 0px 11px 109px;
+}
+   
+
+   .center img {
+      display: none;}
+   
+   
+
+
+
+     
+                form.formapple {
+                    margin-left: 39px;
+                }
+
+                input {
+                    height: 10px;
+                    width: 257px;
+                }
+
+               
+                textarea.textareaapple {
+                    height: 150px;
+                    width: 257px;
+                }
+
+                .btnsend{
+
+                    width: 257px;  
+                } 
+
+                footer.footersocial ul {
+                    padding: 10px 0 10px 100px;
+                    margin-left: -158px;
+                }
+
+
+   .container {
+      background: #000;}
+   
+   
+  .container::before {
+       display:block;
+    content: "Introducing iPhone 13";
+    position: absolute;
+    color: #fff;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-size: 20px;
+} 
+
+  .acenter {
+    margin-top: -300px;
+    margin-left: 80px;
+    background-repeat: no-repeat;
+    text-align: center;
+    width: 200px;
+} 
+   
+}
+
+
+
+
 
 
 
