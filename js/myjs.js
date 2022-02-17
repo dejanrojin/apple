@@ -76,3 +76,17 @@ burger.addEventListener("click",function(){
     header.classList.toggle("openheader");
 
 })
+
+
+
+
+
+$(document).ready(function(){
+
+
+$(window).load(function() {
+   $('.preloader').fadeOut(1300);
+});
+
+
+});
