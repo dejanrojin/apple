@@ -1253,6 +1253,15 @@ cursor: pointer;
 
 @media screen and (max-width: 740px) {
 
+   .heada15 {
+      display: none;}
+   
+   
+   .heada15 {
+    margin-top: 60px;
+      font-size: 21px;}
+   
+   
    .logo img {
     width: 60px;
     height: 75px;
@@ -1500,9 +1509,10 @@ cursor: pointer;
 
 
      
-                form.formapple {
-                    margin-left: 39px;
-                }
+             form.formapple {
+    margin-left: 40px;
+    margin-top: -1px;
+}
 
                 input {
                     height: 10px;
@@ -1511,7 +1521,7 @@ cursor: pointer;
 
                
                 textarea.textareaapple {
-                    height: 150px;
+                    height: 83px;
                     width: 257px;
                 }
 
