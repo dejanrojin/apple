@@ -1519,7 +1519,8 @@ cursor: pointer;
                 }
 
 
-   
+   .container {
+      background: #000;}
 
 }
 
@@ -1532,5 +1533,8 @@ cursor: pointer;
 .left {
    margin-top: -678px;}
 
-
+.container {
+   background: #000;}
+   
+   
 }
