@@ -1253,7 +1253,11 @@ cursor: pointer;
 
 @media screen and (max-width: 740px) {
 
+   .logo img {
+    width: 60px;
+    height: 75px;
    
+}
    
    
  .left {
@@ -1341,6 +1345,7 @@ color:#000;
     }
 
     .logo {
+           width: 86px;
         display: block;
         position: absolute;
         top: 0;}
