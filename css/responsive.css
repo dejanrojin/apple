@@ -986,7 +986,14 @@ z-index: 999999;
                                 font-size: 14px;
                                 margin: 8px;
                             }                      
-                            
+            
+  footer.footersocial ul {
+    padding: 10px 0 10px 100px;
+    margin-left: 355px;
+}
+
+ 
+   
 
 }
 
