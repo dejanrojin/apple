@@ -1253,8 +1253,9 @@ cursor: pointer;
 
 @media screen and (max-width: 480px) {
 
+   
    .contactright {
-      margin-top: -463px;}
+      display: none;}
   
   section.contactios {
      grid-template-columns: 1fr;} 
