@@ -1524,6 +1524,7 @@ cursor: pointer;
    
    
   .container::before {
+       display:block;
     content: "Introducing iPhone 13";
     position: absolute;
     color: #fff;
@@ -1549,6 +1550,7 @@ cursor: pointer;
    
    
   .container::before {
+     display:block;
     content: "Introducing iPhone 13";
     position: absolute;
     color: #fff;
